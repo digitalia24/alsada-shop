@@ -27,7 +27,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0">
-            <h1 className="text-3xl font-serif text-[#C85A3C] tracking-wide">Sabores & Serviços</h1>
+            <h1 className="text-3xl font-serif text-[#C85A3C] tracking-wide">Alsada Shop</h1>
           </Link>
 
           {/* Desktop Navigation */}
